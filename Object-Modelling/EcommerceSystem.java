@@ -1,5 +1,3 @@
-package OOPSPracticeProblem.ObjectModelling.ecommerce;
-
 import java.util.ArrayList;
 import java.util.List;
 

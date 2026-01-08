@@ -1,5 +1,3 @@
-package OOPSPracticeProblem.ObjectModelling;
-
 import java.util.*;
 
 class Course {
